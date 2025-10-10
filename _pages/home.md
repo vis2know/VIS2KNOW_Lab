@@ -1,13 +1,10 @@
 ---
 title: "VIS2KNOW Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "VIS2KNOW Lab SKKU."
 sitemap: false
 permalink: /
 ---
-
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
-
 We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
 
 We have two overarching goals: first, 
