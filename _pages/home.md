@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "VIS2KNOW Lab - Home"
 layout: homelay
 excerpt: "Allan Lab at Leiden University &rarr; LMU."
 sitemap: false
