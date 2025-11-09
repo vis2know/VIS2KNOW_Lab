@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "DSFNet: Dual-fusion network with secondary clustering and feature integration for unsupervised person re-identification (Information Fusion, Q1, IF: 15.5)"
-  image: DSFNet.png
+  image: DSFNET.png
   description: DSFNet is an unsupervised person ReID framework that combines secondary clustering of hard samples, feature integration, and dual-fusion optimization to reduce pseudo-label noise, achieving state-of-the-art gains (up to +4.0 mAP and +4.6 Rank-1) on Market-1501, MSMT17, and PersonX, and competitive results on VeRi-776.
   authors: Mingfu Xiong, Abdul Khader Jilani Saudagar, Mohammad Hijji, Khan Muhammad*, Muhammad Haris Khan*
   link:
