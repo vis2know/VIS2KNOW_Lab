@@ -1,6 +1,6 @@
 # _data/professor.yml
 name: Khan Muhammad
-photo: images/teampic/Khan1.png                      # file at images/teampic/Khan1.png
+photo: Khan1.png                      # file at images/teampic/Khan1.png
 info: Associate Professor (tenure-track); Director, VIS2KNOW Lab
 email: khanmuhammad@g.skku.edu
 number_educ: 3
