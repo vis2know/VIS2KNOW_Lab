@@ -9,6 +9,10 @@ url: "https://vis2know.github.io"
 include:
   - .htaccess
   - _pages
+  - _layouts
+  - _data
+  - _includes
+  - _plugis
 
 sass:
   sass_dir: _sass
