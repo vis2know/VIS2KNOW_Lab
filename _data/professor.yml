@@ -1,0 +1,11 @@
+# _data/professor.yml
+name: Khan Muhammad
+photo: Khan1.png                      # file at images/teampic/Khan1.png
+info: Associate Professor (tenure-track); Director, VIS2KNOW Lab
+email: khanmuhammad@g.skku.edu
+number_educ: 3
+education1: MS → PhD (integrated), Digital Contents, Sejong University, 2014–2018
+education2: 'Highly Cited Researcher (<a href="https://www.webofscience.com/wos/author/record/L-9059-2016" target="_blank" rel="noopener">Clarivate</a>)'
+education3: '“Nobel Candidate Special Award” holder (<a href="https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=97707&article.offset=0&articleLimit=10&no=9582" target="_blank" rel="noopener">official link</a>)'
+# _data/professor.yml
+

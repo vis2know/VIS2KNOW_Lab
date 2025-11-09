@@ -5,11 +5,28 @@ excerpt: "VIS2KNOW Lab SKKU."
 sitemap: false
 permalink: /
 ---
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+<p>
+  We are a research group in the <strong>Department of Applied Artificial Intelligence at Sungkyunkwan University (SKKU)</strong>.
+  Our work spans the full breadth of <strong>computer vision</strong> and <strong>machine learning</strong> with a primary emphasis on
+  <strong>image and video analysis</strong>.
+</p>
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+<p>
+  Our interests include representation learning, detection and segmentation, tracking, action and activity recognition,
+  video understanding, multimodal perception, image restoration and enhancement, and emerging topics such as 3D vision and
+  generative modeling. Methodologically, we study efficient and trustworthy learning: self-supervised and data-centric pipelines,
+  knowledge distillation and model compression, domain adaptation and robustness, and evaluation protocols that support
+  deployment on embedded and resource-constrained platforms.
+</p>
+
+<p>
+  We build and release <strong>datasets, benchmarks, and open-source code</strong> to support reproducible research across
+  application areas including intelligent transportation, aerial and remote-sensing analytics, healthcare-adjacent vision,
+  and human–environment interaction. We collaborate within SKKU and with programs such as <strong>BK21</strong> and the
+  <strong>Seoul RISE Initiative</strong>, and we maintain active <strong>industry–academic partnerships</strong>.
+  We welcome motivated students and collaborators who want to work across foundational problems and real-world systems.
+</p>
+ 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -26,22 +43,22 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/vis1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/vis2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/vis3.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/vis4.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/vis5.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/vis6.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -55,13 +72,16 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
+<p>
+  We are based at Sungkyunkwan University’s Seoul campus (International Hall) and build our research program alongside SKKU’s AI ecosystem.
+  <!-- We collaborate with groups in computer vision, multimedia, robotics, and remote sensing, and we regularly exchange ideas through the
+  <a href="https://bk21.skku.edu">BK21 FOUR program</a> and the
+  <a href="https://rise.seoul.go.kr">Seoul RISE initiative</a>, as well as industry–academic partnerships.
+  Our aim is to pair strong methodology with deployable systems on embedded platforms. -->
+</p>
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
 
-
-
-
+<!-- 
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
@@ -69,4 +89,4 @@ We are currently building up our instruments right in the center of Munich, in t
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
-</figure>
+</figure> -->

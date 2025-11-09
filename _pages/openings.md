@@ -1,12 +1,28 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "VIS2KNOW - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+
+<h1>Open positions</h1>
+
+<p><strong>We do not have salaried positions available at the moment.</strong><br>
+We still welcome motivated students who wish to join through external fellowships such as the <strong>Global Korea Scholarship (GKS)</strong> or other Korean government scholarships and visitors supported by their home institutions.</p>
+
+<p>If you’re interested, email <strong>Prof. Khan Muhammad</strong> at
+<a href="mailto:khanmuhammad@g.skku.edu">khanmuhammad@g.skku.edu</a> with:</p>
+<ul>
+  <li>a brief statement of your research interests and how they fit our lab,</li>
+  <li>a CV (with GPA and publication list, if any),</li>
+  <li>transcripts (unofficial are fine for the first contact).</li>
+</ul>
+
+<p>We review expressions of interest on a rolling basis and will reply if there is a good match or if external funding routes are appropriate.</p>
+
+<!-- # Open positions
 
 **We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
 
@@ -38,4 +54,4 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
