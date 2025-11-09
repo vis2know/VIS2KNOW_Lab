@@ -12,7 +12,7 @@ permalink: /professor/
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ khan1 }}"
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ p.photo }}"
      alt="{{ p.name }} portrait"
      class="media-object img-thumbnail"
      style="width:200px; max-width:100%; margin-right:20px;">
