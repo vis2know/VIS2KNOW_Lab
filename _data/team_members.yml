@@ -47,14 +47,21 @@
   # education1: Postdoc LMU Munich with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
   # education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
   # education3: MSc TUM
+- name: Wajahat Ullah
+  photo: wajahat.jpg
+  info: M.S Student
 
 - name: JeasonHan
   photo: han.jpg
-  info: Undergraduate Researcher
+  info: M.S Candidate
   # email: benschop@physics.leidenuniv.nl
   # number_educ: 2
   # education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
   # education2: MSc Technion
+- name: MATAYI GLODY MUNIADI
+  photo: glody.jpg
+  info: M.S Candidate
+
 
 - name: LIYUBO
   photo: yubo.jpg
@@ -76,6 +83,14 @@
 - name: Byeon Jihwan
   photo: jhwan.png
   info: Undergraduate Researcher
+
+- name: Hajong Kim
+  photo: hajongjim.jpg
+  info: Undergraduate Researcher
+
+- name: Nisrine Khnifass
+  photo: nisrine.png
+  info: International Intern (France)
   # email: benschop@physics.leidenuniv.nl
   # number_educ: 2
   # education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)

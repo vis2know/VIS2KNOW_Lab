@@ -10,7 +10,7 @@ permalink: /vacancies
 <h1>Open positions</h1>
 
 <p><strong>We do not have salaried positions available at the moment.</strong><br>
-We still welcome motivated students who wish to join through external fellowships such as the <strong>Global Korea Scholarship (GKS)</strong> or other Korean government scholarships and visitors supported by their home institutions.</p>
+We still welcome motivated students who wish to join through external fellowships such as the <strong>Global Korea Scholarship (GKS), POSCO </strong>, or other Korean government scholarships and visitors supported by their home institutions (e.g., Chinese Govt Scholarships, HEC, etc.).</p>
 
 <p>If you’re interested, email <strong>Prof. Khan Muhammad</strong> at
 <a href="mailto:khanmuhammad@g.skku.edu">khanmuhammad@g.skku.edu</a> with:</p>
