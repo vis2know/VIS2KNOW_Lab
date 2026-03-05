@@ -51,13 +51,17 @@
   photo: wajahat.jpg
   info: M.S Student
 
-# - name: JeasonHan
-#   photo: han.jpg
-#   info: M.S Candidate
-#   # email: benschop@physics.leidenuniv.nl
-#   # number_educ: 2
-#   # education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
-#   # education2: MSc Technion
+- name: JeasonHan
+  photo: han.jpg
+<<<<<<< HEAD
+  info: M.S Candidate
+=======
+  info: M.S Condidate
+>>>>>>> 18a53bb1f52fb1daf5d53292b15f91a9e48d9446
+  # email: benschop@physics.leidenuniv.nl
+  # number_educ: 2
+  # education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
+  # education2: MSc Technion
 - name: MATAYI GLODY MUNIADI
   photo: glody.jpg
   info: M.S Student
