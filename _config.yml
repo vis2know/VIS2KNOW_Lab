@@ -6,12 +6,11 @@
 # # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
+title: VIS2KNOW Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
-baseurl: ""
-url: ""
+baseurl: "/VIS2KNOW_Lab"
+url: "https://vis2know.github.io"
 
 include:
   - .htaccess
