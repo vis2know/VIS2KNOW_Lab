@@ -7,8 +7,6 @@
 
 # Site settings
 title: VIS2KNOW Lab
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/VIS2KNOW_Lab"
 url: "https://vis2know.github.io"
 
