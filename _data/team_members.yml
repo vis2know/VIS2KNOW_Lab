@@ -33,8 +33,8 @@
 
 - name: Shehzad Ali
   photo: shehzad.png
-  info: M.S Student
-  # email: benschop@physics.leidenuniv.nl
+  info: Ph.D Student
+  scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=p8No0mQAAAAJ
   # number_educ: 2
   # education1: PhD, JNCASR, with A. Sundaresan
   # education2: MSc, Andhra University
@@ -51,20 +51,16 @@
   photo: wajahat.jpg
   info: M.S Student
 
-- name: JeasonHan
-  photo: han.jpg
-<<<<<<< HEAD
-  info: M.S Candidate
-=======
-  info: M.S Condidate
->>>>>>> 18a53bb1f52fb1daf5d53292b15f91a9e48d9446
-  # email: benschop@physics.leidenuniv.nl
-  # number_educ: 2
-  # education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
-  # education2: MSc Technion
+# - name: JeasonHan
+#   photo: han.jpg
+#   info: M.S Candidate
+#   # email: benschop@physics.leidenuniv.nl
+#   # number_educ: 2
+#   # education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
+#   # education2: MSc Technion
 - name: MATAYI GLODY MUNIADI
   photo: glody.jpg
-  info: M.S Candidate
+  info: M.S Student
 
 
 - name: LIYUBO

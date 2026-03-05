@@ -58,7 +58,12 @@ permalink: /team/
   <li> {{ member.education4 | markdownify}} </li>
   <li> {{ member.education5 | markdownify}} </li>
   {% endif %}
-
+   <!-- {% if member.scholar %}
+  <br>
+  <a href="{{ member.scholar }}" target="_blank" rel="noopener">
+    Google Scholar
+  </a>
+{% endif %} -->
   </ul>
 </div>
 
@@ -91,6 +96,14 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  {% if member.scholar %}
+
+  <br>
+<a href="{{ member.scholar }}" target="_blank">
+  <img src="{{ site.baseurl }}/images/icons/google_scholar.png" width="18">
+  Google Scholar
+</a>
+{% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
