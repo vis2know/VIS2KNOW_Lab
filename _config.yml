@@ -6,34 +6,82 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
-baseurl: ""
-url: ""
+# title: The Allan Lab
+# email: your-email@domain.com
+# description: > # this means to ignore newlines until "baseurl:"
+#   Website of the AllanLab.
+# baseurl: ""
+# url: ""
 
-include:
-  - .htaccess
-  - _pages
-  - _layouts
-  - _data
-  - _includes
-  - _plugis
+# include:
+#   - .htaccess
+#   - _pages
+#   - _layouts
+#   - _data
+#   - _includes
+#   - _plugis
 
-sass:
-  sass_dir: _sass
+# sass:
+#   sass_dir: _sass
 
-# Conversion
+# # Conversion
+# markdown: kramdown
+# highlighter: rouge
+# lsi: false
+# excerpt_separator: "\n\n"
+# incremental: false
+
+
+
+# # Markdown Processing
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   smart_quotes: lsquo,rsquo,ldquo,rdquo
+#   enable_coderay: false
+#   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+# Site settings
+title: VIS2KNOW Lab
+email: ""
+description: >-
+  VIS2KNOW Lab at Sungkyunkwan University (SKKU). Research in computer vision,
+  machine learning, and multimodal perception.
+baseurl: "/VIS2KNOW_Lab"
+url: "https://vis2know.github.io"
+
+# Build settings
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Include additional folders/files in the build
+include:
+  - .htaccess
+  - _pages
+  - _layouts
+  - _data
+  - _includes
+  - _plugins
 
+# Exclude common non-site files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+  - .gitignore
 
-# Markdown Processing
+sass:
+  sass_dir: _sass
+
 kramdown:
   input: GFM
   hard_wrap: false
@@ -43,4 +91,4 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+  parse_block_html: true

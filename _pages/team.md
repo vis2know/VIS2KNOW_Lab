@@ -27,8 +27,13 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+{% if member.scholar %}
+<p style="margin: 4px 0 0 0;">
+  <a href="{{ member.scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+</p>
+{% endif %}
   <ul style="overflow: hidden">
-
+   
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -58,7 +63,6 @@ permalink: /team/
   <li> {{ member.education4 | markdownify}} </li>
   <li> {{ member.education5 | markdownify}} </li>
   {% endif %}
-
   </ul>
 </div>
 
@@ -91,6 +95,14 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  {% if member.scholar %}
+
+  <br>
+<a href="{{ member.scholar }}" target="_blank">
+  <img src="{{ site.baseurl }}/images/icons/google_scholar.png" width="18">
+  Google Scholar
+</a>
+{% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -147,6 +159,11 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  {% if member.scholar %}
+<p style="margin: 4px 0 0 0;">
+  <a href="{{ member.scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+</p>
+{% endif %}
   <ul style="overflow: hidden">
 
   </ul>
@@ -180,6 +197,11 @@ permalink: /team/
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
+{% if member.scholar %}
+<p style="margin: 4px 0 0 0;">
+  <a href="{{ member.scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+</p>
+{% endif %}
 </div>
 
 <div class="col-sm-4 clearfix">

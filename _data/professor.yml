@@ -1,11 +1,133 @@
 # _data/professor.yml
-name: Khan Muhammad
-photo: khan1.png                      # file at images/teampic/Khan1.png
-info: Associate Professor (tenure-track); Director, VIS2KNOW Lab
-email: khanmuhammad@g.skku.edu
-number_educ: 3
-education1: MS → PhD (integrated), Digital Contents, Sejong University, 2014–2018
-education2: 'Highly Cited Researcher (<a href="https://www.webofscience.com/wos/author/record/L-9059-2016" target="_blank" rel="noopener">Clarivate</a>)'
-education3: '“Nobel Candidate Special Award” holder (<a href="https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=97707&article.offset=0&articleLimit=10&no=9582" target="_blank" rel="noopener">official link</a>)'
-# _data/professor.yml
+# name: Khan Muhammad
+# photo: khan1.png                      # file at images/teampic/Khan1.png
+# info: Associate Professor (tenure-track); Director, VIS2KNOW Lab
+# email: khanmuhammad@g.skku.edu
+# number_educ: 3
+# education1: MS → PhD (integrated), Digital Contents, Sejong University, 2014–2018
+# education2: 'Highly Cited Researcher (<a href="https://www.webofscience.com/wos/author/record/L-9059-2016" target="_blank" rel="noopener">Clarivate</a>)'
+# education3: '“Nobel Candidate Special Award” holder (<a href="https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=97707&article.offset=0&articleLimit=10&no=9582" target="_blank" rel="noopener">official link</a>)'
+# # _data/professor.yml
 
+name: Khan Muhammad
+photo: khan1.png
+position: Associate Professor (Tenure-Track)
+lab_role: Director, VIS2KNOW Lab
+university: Sungkyunkwan University (SKKU), Seoul, Republic of Korea
+
+email: khan.muhammad@ieee.org
+mobile: +82-10-4831-2104
+office: International Hall, SKKU
+
+profiles:
+  scholar: https://scholar.google.com/citations?hl=en&user=k5oUZyQAAAAJ
+  researchgate: https://www.researchgate.net/profile/Khan_Muhammad7
+  wos: https://www.webofscience.com/wos/author/record/133398
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=56651946700
+
+education:
+  - degree: MS → PhD (Integrated), Digital Contents
+    institution: Sejong University
+    years: 2015–2019
+
+  - degree: BS Computer Science
+    institution: Islamia College Peshawar
+    years: 2010–2014
+
+languages:
+  - English
+  - Korean
+  - Urdu
+
+research_philosophy: >
+  My research focuses on developing intelligent visual systems that
+  understand complex real-world environments using computer vision,
+  machine learning, and multimodal AI. The goal is to bridge fundamental
+  AI research with real-world applications such as healthcare,
+  intelligent transportation, multimedia analytics, and smart cities.
+
+research_interests:
+  - Computer Vision
+  - Multimedia Understanding
+  - Image and Video Analysis
+  - Human Activity Recognition
+  - Image Enhancement and Restoration
+  - Multimodal Machine Learning
+  - AI for Smart Cities and Healthcare
+
+work_experience:
+  - title: Associate Professor (Tenure-Track)
+    institution: Sungkyunkwan University
+    years: 2024–Present
+
+  - title: Assistant Professor (Tenure-Track)
+    institution: Sungkyunkwan University
+    years: 2022–2024
+
+  - title: Assistant Professor
+    institution: Sejong University
+    years: 2019–2022
+
+awards:
+  - title: 'Highly Cited Researcher (HCR)'
+    organization: 'Web of Science (top 1% researchers around the world by Clarivate)'
+    year: '2021, 2022, 2023, 2024'
+    link: 'https://www.webofscience.com/wos/author/record/133398'
+
+  - title: 'Nobel Candidate Special Award'
+    organization: 'Sungkyunkwan University, Seoul, South Korea'
+    year: '2022'
+    link: 'https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=97707&article.offset=0&articleLimit=10&no=9582'
+
+  - title: 'SKKU Rising-Fellowship'
+    organization: 'Sungkyunkwan University, Seoul, South Korea'
+    year: '2025'
+    link: 'https://ranbiz.skku.edu/?p=21&viewMode=view&idx=2052'
+  
+
+  - title: "Ranked 4th among South Korea’s top computer science scientists"
+    organization: 'Research.com'
+    year: '2025'
+    link: 'https://research.com/scientists-rankings/computer-science/kr'
+
+  - title: 'Honorary citizenship of Seoul'
+    organization: 'Seoul Metropolitan City'
+    year: '2022'
+   
+  - title: 'World Top 2% Scientists'
+    organization: 'Stanford University'
+    year: '2021 to 2025'
+    link: 'https://topresearcherslist.com/Home/Profile/1053703'
+  
+invited_talks:
+  - title: "Keynote Speaker on “Intelligent Image Enhancement for Real-World Applications in Adverse Atmospheric Conditions”"
+    venue: "2025 International Conference on Computational Science and Its Applications (ICCSA 2025)"
+    date: "June 30 to 3 July 2025"
+    location: ""
+
+  - title: "Invited talk on “LISTEN Project: Situation-Awareness based on the Analysis of Speech and Environmental Sounds”"
+    venue: "9th EAI International Conference on e-Learning, e-Education and Online Training"
+    date: "Aug 2023"
+    location: "China"
+
+  - title: "Invited talk on “Intelligent Fire Scene Analysis using Efficient Convolutional Neural Networks”"
+    venue: "6th EAI International Conference on Advanced Hybrid Information Processing (ADHIP)"
+    date: "Sept 2022"
+    location: "China"
+
+  - title: "Invited Speaker on “Recent Developments in Fire Scene Analysis”"
+    venue: "NTNU"
+    date: "Oct 2021"
+    location: "Norway"
+
+  - title: "Invited Speaker on “Future of E-Health and Telemedicine”"
+    venue: "MARIE CURIE COFUND PROGRAMME"
+    date: "21 April 2021"
+    location: ""
+
+professional_services:
+  - Associate Editor, Information Fusion (Elsevier)
+  - Associate Editor, Alexandria Engineering Journal
+  - Editorial Board Member, MDPI Fire
+  - Editorial Board Member, Wiley Expert Systems
+  - Reviewer for 120+ journals with 1000+ reviews
