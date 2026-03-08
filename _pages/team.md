@@ -63,6 +63,15 @@ permalink: /team/
   <li> {{ member.education4 | markdownify}} </li>
   <li> {{ member.education5 | markdownify}} </li>
   {% endif %}
+<<<<<<< HEAD
+=======
+   <!-- {% if member.scholar %}
+  <br>
+  <a href="{{ member.scholar }}" target="_blank" rel="noopener">
+    Google Scholar
+  </a>
+{% endif %} -->
+>>>>>>> 187c09823fe228923f4b9bdf28c9125af6aa2c38
   </ul>
 </div>
 
