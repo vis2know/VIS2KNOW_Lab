@@ -34,14 +34,11 @@
 
 - name: Shehzad Ali
   photo: shehzad.png
-<<<<<<< HEAD
   scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=p8No0mQAAAAJ
   info: Ph.D Student
 
-=======
   info: Ph.D Student
   scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=p8No0mQAAAAJ
->>>>>>> 187c09823fe228923f4b9bdf28c9125af6aa2c38
   # number_educ: 2
   # education1: PhD, JNCASR, with A. Sundaresan
   # education2: MSc, Andhra University
@@ -58,20 +55,10 @@
   photo: wajahat.jpg
   info: M.S Student
 
-<<<<<<< HEAD
-# - name: JeasonHan
-#   photo: han.jpg
-#   info: M.S Candidate
-#   # email: benschop@physics.leidenuniv.nl
-#   # number_educ: 2
-#   # education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
-#   # education2: MSc Technion
-=======
   # email: benschop@physics.leidenuniv.nl
   # number_educ: 2
   # education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
   # education2: MSc Technion
->>>>>>> 187c09823fe228923f4b9bdf28c9125af6aa2c38
 - name: MATAYI GLODY MUNIADI
   photo: glody.jpg
   info: M.S Student
