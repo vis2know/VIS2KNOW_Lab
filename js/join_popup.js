@@ -48,7 +48,6 @@
   }
 
   ready(function () {
-<<<<<<< HEAD
     // If user previously hid it, do nothing
     if (localStorage.getItem(STORAGE_KEY) === "1") return;
 
@@ -68,22 +67,6 @@
       console.log("Popup: Bootstrap modal missing");
       return;
     }
-=======
-    if (localStorage.getItem(STORAGE_KEY) === "1") return;
-
-    var path = window.location.pathname.replace(/\/+$/, "");
-    var base = "/VIS2KNOW_Lab";
-
-    var isHome =
-      path === "" ||
-      path === "/" ||
-      path === base ||
-      path === base + "/index.html";
-
-    if (!isHome) return;
-
-    if (typeof window.jQuery === "undefined" || typeof jQuery.fn.modal === "undefined") return;
->>>>>>> 187c09823fe228923f4b9bdf28c9125af6aa2c38
 
     setTimeout(function () {
       jQuery("#joinLabModal").modal("show");
@@ -96,8 +79,4 @@
       });
     }
   });
-<<<<<<< HEAD
 })();
-=======
-})();
->>>>>>> 187c09823fe228923f4b9bdf28c9125af6aa2c38
